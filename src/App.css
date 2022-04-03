@@ -1,0 +1,18 @@
+:root {
+    --teaGreen: rgba(195, 216, 163, 1);
+    --lightYellow: rgba(255, 225, 162, 1);
+    --orange: rgba(226, 109, 84, 1);
+    --mauve: rgba(114, 61, 70, 1);
+    --maroon: rgba(71, 15, 1, 1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--maroon);
+    color: var(--lightYellow);
+    font-size: 25px;
+}
