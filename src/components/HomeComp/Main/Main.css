@@ -1,4 +1,9 @@
-#home-main img{
-    display: block;
-    margin: 0 auto;
+#home-main {
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+#home-main div, img {
+    padding: 17px;
 }
