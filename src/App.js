@@ -1,11 +1,16 @@
 import './App.css';
 import { Routes, Route } from "react-router-dom";
 import './fonts/Marlboro.ttf';
-import { Home, Breakfast, Dinner, Lunch, Pictures } from './pages';
+import { 
+  Home, 
+  Breakfast, 
+  Dinner, 
+  Lunch, 
+  Pictures 
+} from './pages';
 
 function App() {
   //Neil
-  
   return (
     <div className="App">
       <Routes>
