@@ -10,6 +10,7 @@
     --orange: rgba(226, 109, 84, 1);
     --mauve: rgba(114, 61, 70, 1);
     --maroon: rgba(71, 15, 1, 1);
+    --maroonOP: rgba(16, 3, 3, 0.75);
 }
 
 * {
@@ -18,7 +19,10 @@
 }
 
 body {
-    background-color: var(--maroon);
+    /* background-image: url(../src/images/background-texture-brick.jpg), var(--maroonOP); */
+    background-color: var(--maroonOP);
+    background-image: url(../src/images/background-texture-brick.jpg);
+    background-blend-mode: multiply;
     color: var(--lightYellow);
     font-family: 'Marlboro';
     letter-spacing: 0.07em;
