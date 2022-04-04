@@ -1,0 +1,5 @@
+/* Basic style for skeleton purposes */
+
+#navbar ul{
+    display: flex;
+}

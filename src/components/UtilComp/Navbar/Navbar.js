@@ -1,14 +1,14 @@
 import React from 'react'
 import navbarItems from './NavbarItems'
-
+import './Navbar.css'
 function Navbar() {
   return (
-    <div>
+    <div id='navbar'>
         <ul>
         {
-            navbarItems.map((item) => {
+            navbarItems.map(({ cName, src, name }) => {
                 return(
-                    <li><a href={item.src}>{item.name}</a></li>
+                    <li className={cName}><a href={src}>{name}</a></li>
                 )
             })
         }
