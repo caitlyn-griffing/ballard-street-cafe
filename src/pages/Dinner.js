@@ -24,6 +24,7 @@ function Dinner() {
   
   return (
     <div>
+      <h1>DINNER MENU</h1>
      {writeDinnerItems()}
     </div>
   )
