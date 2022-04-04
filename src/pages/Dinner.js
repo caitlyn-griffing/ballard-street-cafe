@@ -5,7 +5,7 @@ function Dinner() {
   const items = writeItems(data, 'dinner')
   return (
     <div>
-     {items}
+
     </div>
   )
 }
