@@ -2,13 +2,13 @@ import React from 'react'
 import data from '../data/menuItems.json'
 import { writeItems } from '../utils/util'
 
-import Navbar from '../components/UtilComp/Navbar/Navbar'
+import Header from '../components/UtilComp/Header/Header'
 
 function Breakfast() {
   const items = writeItems(data, 'breakfast')
   return (
     <div>
-      <Navbar />
+      <Header />
       <div>{items}</div>
     </div>
   )
