@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Marlboro';
+    src: local("Marlboro"),
+    url("./fonts/Marlboro.ttf") format("truetype");
+}
+
 :root {
     --teaGreen: rgba(195, 216, 163, 1);
     --lightYellow: rgba(255, 225, 162, 1);
@@ -14,5 +20,7 @@
 body {
     background-color: var(--maroon);
     color: var(--lightYellow);
-    font-size: 25px;
+    font-family: 'Marlboro';
+    letter-spacing: 0.07em;
 }
+
