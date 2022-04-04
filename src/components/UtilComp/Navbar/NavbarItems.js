@@ -1,28 +1,31 @@
+//Content for Navbar Items goes 
+const cName = 'navbar-item'
+
 const navbarItems =  [
     {
         name: 'Home', 
         src: '/home',
-        link: ''
+        cName
     },
     {
         name: 'Breakfast', 
         src: '/breakfast',
-        link: ''
+        cName
     },
     {
         name: 'Lunch', 
         src: '/lunch',
-        link: ''
+        cName
     },
     {
         name: 'Dinner', 
         src: '/dinner',
-        link: ''
+        cName
     },
     {
         name: 'Comments and Pictures', 
         src: '/pictures',
-        link: ''
+        cName
     },
 ]
 
