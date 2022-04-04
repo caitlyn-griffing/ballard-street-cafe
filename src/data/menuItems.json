@@ -1,0 +1,1049 @@
+[
+    {
+        "item": "1 egg",
+        "description": "with Bacon, sausage, link sausage, smoked sausgae, chorizo or ham",
+        "price": 6.49,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs ",
+        "description": "with Bacon, sausage, link sausage, smoked sausgae, chorizo or ham",
+        "price": 6.79,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 eggs",
+        "description": "with Bacon, sausage, link sausage, smoked sausgae, chorizo or ham",
+        "price": 7.29,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs",
+        "description": "no meat",
+        "price": 4.29,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs & hand breaded chicken fried chicken",
+        "price": 8.79,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs and grilled chicken breast",
+        "price": 8.89,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs & 8 oz chopped steak",
+        "price": 8.99,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs & chicken fried pork loin",
+        "price": 8.99,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "hand breaded chicken fried steak",
+        "price": 9.39,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 Eggs & 2 Center cut pork chops",
+        "description": "Grilled of fried",
+        "price": 9.59,
+        "type": "full breakfast plate",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs scramble mix",
+        "description": "with choice of meat",
+        "price": 6.99,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs scramble mix",
+        "description": "with choice of veggies",
+        "price": 6.79,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs scramble mix",
+        "description": "add 1 veggie for ",
+        "price": 1.29,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "2 eggs scramble mix",
+        "description": "or 2 more for ",
+        "price": 1.49,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 eggs scramble mix",
+        "description": "with choice of meat",
+        "price": 7.49,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 eggs scramble mix",
+        "description": "with choice of veggies",
+        "price": 7.29,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 eggs scramble mix",
+        "description": "add 1 veggie for ",
+        "price": 1.29,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 eggs scramble mix",
+        "description": "or 2 more for ",
+        "price": 1.49,
+        "type": "scramble mix",
+        "meal": "breakfast"
+    },
+    {
+        "item": "mexicali scramble",
+        "description": "sausage, cheese, tomato, onion & jalapeno",
+        "price": 7.49,
+        "type": "south of the border",
+        "meal": "breakfast"
+    },
+    {
+        "item": "huevos ranchero",
+        "description": "grilled onions, tomato & jalapenos with choice of meat",
+        "price": 8.59,
+        "type": "south of the border",
+        "meal": "breakfast"
+    },
+    {
+        "item": "dos tacos",
+        "description": "2 breakfast tacos, your choice of meat or potato",
+        "price": 7.29,
+        "type": "south of the border",
+        "meal": "breakfast"
+    },
+    {
+        "item": "tamale sunrise",
+        "description": "2 eggs, 3 tamales, hash browns and toast",
+        "price": 7.49,
+        "type": "south of the border",
+        "meal": "breakfast"
+    },
+    {
+        "item": "waffle or short stack",
+        "price": 7.29,
+        "type": "from the griddle",
+        "meal": "breakfast"
+    },
+    {
+        "item": "french toast",
+        "price": 7.29,
+        "type": "from the griddle",
+        "meal": "breakfast"
+    },
+    {
+        "item": "4 pigs in a blanket",
+        "description": "links wrapped in cakes",
+        "price": 7.49,
+        "type": "from the griddle",
+        "meal": "breakfast"
+    },
+    {
+        "item": "4 pigs in a blanket",
+        "description": "add blueberries, pecans, or chocolate chips",
+        "price": 1.29,
+        "type": "from the griddle",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 egg ",
+        "description": "with toast or a biscuit, 1 breakfast meat & 1 side",
+        "price": 4.79,
+        "type": "kids breakfast",
+        "meal": "breakfast"
+    },
+    {
+        "item": "french toast",
+        "description": "with 1 breakfast meat & 1 egg",
+        "price": 4.79,
+        "type": "kids breakfast",
+        "meal": "breakfast"
+    },
+    {
+        "item": "short stack",
+        "description": "with 1 breakfast meat & 1 egg",
+        "price": 4.79,
+        "type": "kids breakfast",
+        "meal": "breakfast"
+    },
+    {
+        "item": "pigs in a blanket",
+        "description": "with choice of 1 egg",
+        "price": 4.79,
+        "type": "kids breakfast",
+        "meal": "breakfast"
+    },
+    {
+        "item": "Cheese omelet",
+        "description": "swiss, american or cheddar",
+        "price": 6.29,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "veggie omelet",
+        "price": 7.19,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 meat & cheese omelet",
+        "price": 8.29,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 meat & veggies",
+        "price": 8.49,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "meat eater omelet",
+        "price": 9.59,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "big boy",
+        "price": 11.19,
+        "type": "ballard omelets",
+        "meal": "breakfast"
+    },
+    {
+        "item": "classic BLT",
+        "price": 5.49,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "super BLT",
+        "description": "with egg & cheese",
+        "price": 6.59,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "breakfast club",
+        "description": "ham, bacon, egg, cheese, lettuce & tomato",
+        "price": 6.79,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "sausage, ham or bacon biscuit",
+        "price": 3.29,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "super biscuit",
+        "description": "egg cheese & your choice of meat",
+        "price": 4.29,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "egg & cheese on toast",
+        "price": 3.29,
+        "type": "breakfast sandwich",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 egg",
+        "price": 1.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "taco",
+        "description": "meat or potato",
+        "price": 3.59,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 pancake",
+        "price": 2.19,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "short stack",
+        "description": "2 pancakes",
+        "price": 3.69,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "stack",
+        "description": "3 pancakes",
+        "price": 3.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 waffle",
+        "price": 3.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "french toast",
+        "description": 3,
+        "price": 3.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "french toast",
+        "description": 1,
+        "price": 2.19,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "oatmeal or grits with toast",
+        "price": 3.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "hashbrowns or grits",
+        "price": 1.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "corned beef hash",
+        "price": 3.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "4 bacon, 2 sausage patties, 4 link sausages, smoked sausage, bologna, chorizo or ham",
+        "price": 3.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "4 bacon, 2 sausage patties, 4 link sausages, smoked sausage, bologna, chorizo or ham",
+        "description": "half order",
+        "price": 2.59,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "1 center cut pork chop",
+        "price": 4.19,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "toast & jelly or gravy",
+        "price": 1.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "biscuits with gravy & jelly",
+        "description": 1,
+        "price": 1.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "biscuits with gravy & jelly",
+        "description": 2,
+        "price": 2.79,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "3 tamales",
+        "price": 4.29,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "picante sauce",
+        "price": 0.99,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "cheese",
+        "price": 1.39,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "veggies",
+        "description": "add 1",
+        "price": 1.29,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "veggies",
+        "description": "add 2",
+        "price": 1.49,
+        "type": "a la carte",
+        "meal": "breakfast"
+    },
+    {
+        "item": "french fries",
+        "price": 2.39,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "fried cheese sticks",
+        "price": 4.29,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "fried mushrooms",
+        "price": 4.29,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "onion rings",
+        "description": "small ",
+        "price": 2.59,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "onion rings",
+        "description": "large",
+        "price": 4.29,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "tator tots",
+        "price": 3.29,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "tator tots",
+        "description": "add chili cheese",
+        "price": 5.39,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "appetizer sampler",
+        "description": "includes a sample of 3 appetizers",
+        "price": 6.99,
+        "type": "appetizer",
+        "meal": "lunch"
+    },
+    {
+        "item": "dinner salad",
+        "price": 2.79,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chef salad",
+        "price": 7.99,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "grilled chicken salad",
+        "price": 7.99,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "crispy chicken salad",
+        "price": 7.99,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chicken salad",
+        "price": 7.99,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "homestyle soup of the day",
+        "description": "cup",
+        "price": 3.39,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "homestyle soup of the day",
+        "description": "bowl",
+        "price": 4.59,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chili",
+        "description": "cup",
+        "price": 5.49,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chili",
+        "description": "bowl",
+        "price": 4.59,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chili",
+        "description": "add cheese",
+        "price": 1.39,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chili",
+        "description": "onions & jalapenos available on request",
+        "price": 0,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "chili",
+        "description": "substitute chili for fries, soup or salad",
+        "price": 2.39,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "soup & salad",
+        "description": "a bowl of our soup of the day & a small dinner salad",
+        "price": 6.19,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "beans & cornbread",
+        "description": "a bowl of beans & fresh cornbread",
+        "price": 4.99,
+        "type": "soup salad",
+        "meal": "lunch"
+    },
+    {
+        "item": "hamburger",
+        "description": "lettuce, pickles & onions",
+        "price": 7.99,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "cheeseburger",
+        "description": "lettuce, pickles & onions",
+        "price": 8.39,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "bacon cheeseburger",
+        "price": 9.19,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "mushroom swiss burger",
+        "price": 8.49,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "fried bologa sandwich",
+        "price": 7.39,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "big boy cheeseburger",
+        "description": "a full pound",
+        "price": 11.19,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "patty melt",
+        "description": "grilled onions & swiss cheese on rye bread",
+        "price": 8.39,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "grilled chicken breast & swiss",
+        "price": 7.99,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "mushroom swiss chicken",
+        "price": 8.19,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "handbreaded chicken fried steak",
+        "price": 8.29,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "chicken friend chicken sandwich",
+        "price": 8.19,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "handbreaded chicken fried pork loin",
+        "price": 7.99,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "hot ham & swiss on rye",
+        "price": 7.49,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "ballard street club",
+        "description": "ham, turkey, bacon, lettuce, tomato & american cheese",
+        "price": 8.69,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "ham or turkey",
+        "price": 7.49,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "open faced roast brisket",
+        "price": 8.29,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "grilled cheese",
+        "price": 5.59,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "BLT",
+        "price": 6.99,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "chicken salad sandwich",
+        "price": 7.29,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "one fish wonder",
+        "description": "filet of fish sandwich with american cheese and tartar sauce",
+        "price": 7.89,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "old town special",
+        "description": "ham, turkey, lettuce, tomato, and swiss cheese",
+        "price": 7.49,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "*",
+        "description": "add bacon to any sandwich",
+        "price": 2.49,
+        "type": "burger sandwich",
+        "meal": "lunch"
+    },
+    {
+        "item": "mushroom swiss chicken breast",
+        "description": "topped with mushrooms & swiss cheese",
+        "price": 9.29,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "southwest chicken breast",
+        "description": "sauteed onions, bell peppers, mushrooms & swiss cheese",
+        "price": 9.29,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "chicken ranchero",
+        "description": "grilled onions, tomato, jalapeno & cheddar cheese",
+        "price": 9.29,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "grilled chicken breast",
+        "price": 8.89,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "grilled chicken strips",
+        "price": 8.89,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "grilled center cut pork chops",
+        "price": 9.39,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "catfish dinner",
+        "price": 11.59,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "grilled center cut pork chops ranchero",
+        "description": "grilled onions, tomato, jalapeno & cheddar cheese",
+        "price": 10.29,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "8 oz. chopped steak",
+        "price": 9.19,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "16 oz. chopped steak",
+        "price": 11.19,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "roast beef",
+        "price": 8.89,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "grilled meatloaf",
+        "price": 8.89,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "vegetable plate",
+        "description": "served with a cup of soup or salad & your choice of 4 vegetables",
+        "price": 7.49,
+        "type": "house specialties",
+        "meal": "dinner"
+    },
+    {
+        "item": "chateau bubba chicken fried steak",
+        "price": 12.39,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "baby bubba",
+        "description": "just a little bubba",
+        "price": 9.29,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "chicken fried chicken",
+        "price": 8.89,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "chicken strips",
+        "price": 8.89,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "fried center cut pork chops",
+        "price": 9.39,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "chicken fried pork loin",
+        "price": 8.89,
+        "type": "deep fried favorites",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. grilled cheese",
+        "price": 4.29,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. ham & cheese sandwich",
+        "price": 4.89,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. fried or grilled chicken strips",
+        "price": 6.69,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. cheeseburger",
+        "price": 4.99,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. meatloaf",
+        "price": 6.89,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. corn dogs (2)",
+        "price": 4.69,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. hamburger",
+        "price": 4.89,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. fish",
+        "price": 6.79,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. chicken fried steak",
+        "price": 6.89,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "jr. chopped steak",
+        "price": 6.89,
+        "type": "kids dinner",
+        "meal": "dinner"
+    },
+    {
+        "item": "mashed potatoes",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "corn",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "carrots",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "butter beans",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "green beans",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "canteloupe (when in season)",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "pinto beans",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "fried okra",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "black eyed peas",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "tomatoes",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "cabbage",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "sauteed mushrooms",
+        "type": "vegetables",
+        "meal": "dinner"
+    },
+    {
+        "item": "cream pies of the day",
+        "description": "per slice",
+        "price": 3.99,
+        "type": "moms homemade desserts",
+        "meal": "dinner"
+    },
+    {
+        "item": "cobbler",
+        "price": 3.99,
+        "type": "moms homemade desserts",
+        "meal": "dinner"
+    },
+    {
+        "item": "hot fudge brownie sundae",
+        "price": 3.99,
+        "type": "moms homemade desserts",
+        "meal": "dinner"
+    },
+    {
+        "item": "cobbler a 'la mode",
+        "price": 4.69,
+        "type": "moms homemade desserts",
+        "meal": "dinner"
+    },
+    {
+        "item": "ice cream",
+        "price": 2.49,
+        "type": "moms homemade desserts",
+        "meal": "dinner"
+    },
+    {
+        "item": "coke",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "diet coke",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "sprite ",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "dr. pepper",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "diet dr. pepper",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "orange fanta",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "lemonade",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "coffee",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "tea ",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "orange juice",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "applie juice",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "milk",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "chocolate milk",
+        "type": "drinks",
+        "meal": "dinner"
+    },
+    {
+        "item": "hot chocolate",
+        "type": "drinks",
+        "meal": "dinner"
+    }
+]
