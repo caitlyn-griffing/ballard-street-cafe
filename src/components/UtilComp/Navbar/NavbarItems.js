@@ -4,7 +4,7 @@ const cName = 'navbar-item'
 const navbarItems =  [
     {
         name: 'Home', 
-        src: '/home',
+        src: '/',
         cName
     },
     {
