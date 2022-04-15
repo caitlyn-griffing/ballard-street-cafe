@@ -1,8 +1,21 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 function Pictures() {
+
+  useEffect( () => {
+    fetch('/api')
+    .then(res => {
+      console.log(res.headers)
+      return res.json()
+    })
+    .then(data => {
+      console.log(data)
+    })
+  }, [])
+
+
   return (
-    <div>Pictures</div>
+    <div>dd</div>
   )
 }
 
