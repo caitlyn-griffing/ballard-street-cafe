@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import Card from '../components/PicturesComp/Card/Card';
 
 function Pictures() {
   const [data, setData] = useState()
@@ -22,14 +23,7 @@ function Pictures() {
   //Add ternary operator to handle lazy loading. If not used then the page will load before the data is fetched, resulting in a response that says "enable javsciprt to run this app"
   return (
     <div>{data ? 
-      data.map((review, index) => {
-        return (
-          <div key={index}>
-            <h1>{review.author_name}</h1>
-            <p>{review.text}</p>
-          </div>
-        )
-      }) : 
+      <Card data={data}/> : 
       <>Loading...</>}
     </div>
   )
